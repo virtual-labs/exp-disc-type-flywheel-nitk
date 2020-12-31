@@ -1,1 +1,1 @@
-## Experiment name
+## Disc Type Flywheel
