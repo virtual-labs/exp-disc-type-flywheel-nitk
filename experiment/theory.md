@@ -2,13 +2,13 @@
 
 #### User Objectives and Goals:
 
-  1. Explain the structure of disc type flywheel
-  2. Examine the time taken to reach the ground for metal bob while varying the radius and mass. Apply the angular acceleration equation and equation of motion to calculate the time in which mass will descend
-  3. Analyse the time required for the metal bob to touch the ground for rim type and disc type flywheel.
-  4. Compare the application of rim type flywheel over disc type flywheel.
-
+1. Explain the structure of disc type flywheel
+2. Examine the time taken to reach the ground for metal bob while varying the radius and mass. Apply the angular acceleration equation and equation of motion to calculate the time in which mass will descend
+3. Analyse the time required for the metal bob to touch the ground for rim type and disc type flywheel.
+4. Compare the application of rim type flywheel over disc type flywheel.
 
 #### Theory
+
 A flywheel is a mechanical device which is designed to efficiently store rotational energy. It is an inertial energy-storage device. It absorbs mechanical energy and serves as a reservoir, storing energy during the period when the supply of energy is more than the requirement and releases it during the period when the requirement of energy is more than the supply.
 
 Flywheels have an inertia called the moment of inertia and thus resist changes in rotational speed. The amount of energy stored in a flywheel is proportional to the square of its rotational speed. A flywheel is a spinning wheel or disc with a fixed axle so that rotation is only about one axis.
@@ -58,4 +58,4 @@ Where,
 <center>Source: (<a href="https://www.flyingspares.com/shop/rolls-royce-bentley-mkvi-r-type-dawn-wraith/gearbox-and-clutch/flywheel-manual/flexible-driving-disc-11-gb5292u.html">https://www.flyingspares.com/shop/rolls-royce-bentley-mkvi-r-type-dawn-wraith/gearbox-and-clutch/flywheel-manual/flexible-driving-disc-11-gb5292u.html</a>)
 </center><br>
 
-<center>(Equations Source: <a href="http://latex.codecogs.com/">latex.codecogs.com</a>)</center>
+<center>(Equation Generation Source: <a href="http://latex.codecogs.com/">latex.codecogs.com</a>)</center>
