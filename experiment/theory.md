@@ -2,18 +2,18 @@
 
 #### User Objectives and Goals:
 
-  1. Explain the structure of disc type flywheel
-  2. Examine the time taken to reach the ground for metal bob while varying the radius and mass. Apply the angular acceleration equation and equation of motion to calculate the time in which mass will descend
-  3. Analyse the time required for the metal bob to touch the ground for rim type and disc type flywheel.
-  4. Compare the application of rim type flywheel over disc type flywheel.
-
+1. To explain the structure of a disc type flywheel
+2. To examine the time taken for the metal bob to reach the ground by varying the radius and mass, and applying the angular acceleration equation and equation of motion to calculate the time **in** which mass will descend
+3. To analyse the time required for the metal bob to touch the ground for rim type and disc type flywheel.
+4. To compare the application of rim type flywheel over disc type flywheel.
 
 #### Theory
-A flywheel is a mechanical device which is designed to efficiently store rotational energy. It is an inertial energy-storage device. It absorbs mechanical energy and serves as a reservoir, storing energy during the period when the supply of energy is more than the requirement and releases it during the period when the requirement of energy is more than the supply.
 
-Flywheels have an inertia called the moment of inertia and thus resist changes in rotational speed. The amount of energy stored in a flywheel is proportional to the square of its rotational speed. A flywheel is a spinning wheel or disc with a fixed axle so that rotation is only about one axis.
+A flywheel is an inertial energy storage device which is designed to store rotational energy efficiently. By absorbing mechanical energy it serves as a reservoir i.e. storing energy when the supply of energy is more than what is required and releasing it during the period when the requirement of energy falls short. A flywheel is a spinning wheel or disc with a fixed axle so that rotation is only about one axis.
 
-The single cylinder engine is a prime candidate for the use of a flywheel. The intermittent nature of its power stroke makes one mandatory as it will store kinetic energy needed to carry the piston through the Otto cycle’s exhaust, intake, and compression stroke during which work must be done in the system.<a href="references.html">[1]</a>
+Due to moment of inertia, flywheels resist changes in rotational speed. The amount of energy stored in a flywheel is proportional to the square of its rotational speed.
+
+The single cylinder engine is a prime candidate for the use of a flywheel. The intermittent nature of its power stroke makes it necessary to store kinetic energy, to carry the piston through the Otto cycle’s exhaust, intake, and compression stroke during which work must be done in the system.<a href="references.html">[1]</a>
 
 An important application of a flywheel is in a mechanical press where for a fraction of time high energy is required for actual punching, shearing or forming. This energy is supplied by the flywheel. During the longer non active period, the speed of the flywheel is built up slowly by a low powered motor. Thus, the motor is not overloaded and also results in energy saving. <a href="references.html">[2]</a>
 
@@ -21,18 +21,18 @@ In Rim type of flywheel, the mass of the flywheel is concentrated at the rim onl
 
 #### Equations/formulas:
 
-In this experiment, the potential energy of mass m is converted into its translation kinetic energy and rotational kinetic energy of flywheel and some of the energy is lost in overcoming frictional force. The conservation of energy equation at the instant when the mass touches the ground can be written as
+In this experiment, the potential energy of mass m is converted into its translation kinetic energy, rotational kinetic energy of flywheel and some of the energy is lost in overcoming frictional force. The equation of conservation of energy at the instant when the mass touches the ground can be written as
 
 <center><img src="./images/equations/mgh.png" title="mgH = \frac {1}{2}mv^2+\frac{1}{2}I\omega^2+n_1f----(1)" /></center><br>
 <center><img src="./images/equations/n1f.png" title="n_1f = T\theta----(1.1)" /></center>
 
-Here <img src="./images/equations/v.png" title="v" /> is the velocity of mass and <img src="./images/equations/omega.png" title="\omega" /> is the angular velocity of flywheel at the instant when the mass touches the ground. Here <img src="./images/equations/f.png" title="f" /> is the frictional energy lost per unit rotation of the flywheel and it is assumed to be steady. <img src="./images/equations/n1.png" title="n_1" /> is the number of rotations completed by the flywheel, when the mass attached string has left the axle.
+Here <img src="./images/equations/v.png" title="v" /> is the velocity of mass and <img src="./images/equations/omega.png" title="\omega" /> is the angular velocity of flywheel at the instant when the mass touches the ground. Here <img src="./images/equations/f.png" title="f" /> is the frictional energy lost per unit rotation of the flywheel and it is assumed to be steady. <img src="./images/equations/n1.png" title="n_1" /> is the number of rotations completed by the flywheel, when the mass attached to the string has left the axle.
 
-Even after the string has left the axle, the fly wheel continue to rotate and its angular velocity would decrease gradually and come to a rest when all is rotational kinetic energy has been used by the frictional energy. If <img src="./images/equations/n2.png" title="n_2" /> is the number of rotations made by the flywheel after the string has left the axle,
+Even after the string has left the axle, the fly wheel will continue to rotate and its angular velocity decreases gradually and will come to rest when all the rotational kinetic energy has been used up by the frictional energy. If <img src="./images/equations/n2.png" title="n_2" /> is the number of rotations made by the flywheel after the string has left the axle,
 
 <center><img src="./images/equations/feq.png" title="f = \frac{1}{2n_2}I\omega^2----(2)" /></center>
 
-Substituting equation (2) in equation (1)
+Now, substituting equation (2) in equation (1)
 
 <center><img src="./images/equations/i1.png" title="I = \frac{2mgH-mv^2}{\omega^2(1+\frac{n_1}{n_2})}----(3)" /></center>
 
@@ -58,4 +58,4 @@ Where,
 <center>Source: (<a href="https://www.flyingspares.com/shop/rolls-royce-bentley-mkvi-r-type-dawn-wraith/gearbox-and-clutch/flywheel-manual/flexible-driving-disc-11-gb5292u.html">https://www.flyingspares.com/shop/rolls-royce-bentley-mkvi-r-type-dawn-wraith/gearbox-and-clutch/flywheel-manual/flexible-driving-disc-11-gb5292u.html</a>)
 </center><br>
 
-<center>(Equations Source: <a href="http://latex.codecogs.com/">latex.codecogs.com</a>)</center>
+<center>(Equation Generation Source: <a href="http://latex.codecogs.com/">latex.codecogs.com</a>)</center>
